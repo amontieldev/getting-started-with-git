@@ -1,7 +1,15 @@
-.header {
-  padding: 60px;
-  text-align: center;
-  background: #1abc9c;
+header {
+  background-color: #321414;
   color: white;
-  font-size: 30px;
+  padding: 10px;
+  font-family: "Lucida Handwriting", "Papyrus", "Sans-Serif";
+}
+body{
+  background-color: #e5dbd2;
+}
+hr{
+  height: 2px;
+  background-color: black;
+  border: none;
+  
 }
